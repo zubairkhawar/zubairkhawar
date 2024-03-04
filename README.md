@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ERP Systems
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about front-end development
+- 🌱 I’m currently learning Android Development
+- 💬 Ask me about full-stack development
 - 📫 How to reach me: zubairkhawer@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairkhawar&label=Profile%20views&color=0e75b6&style=flat" alt="zubairkhawar" /> </p>
