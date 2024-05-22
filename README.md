@@ -1,7 +1,7 @@
 ### Hello, I'm Zubair 👋
 
 
-- 🔭 I’m currently working on Next.js
+- 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Android Development
 - 💬 Ask me about full-stack development
 - 📫 How to reach me: zubairkhawer@gmail.com
