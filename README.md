@@ -1,8 +1,8 @@
 ### Hello, I'm Zubair 👋
 
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on python framework
+- 🌱 I’m currently learning Langchain
 - 💬 Ask me about full-stack development
 - 📫 How to reach me: zubairkhawer@gmail.com
 
